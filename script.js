@@ -1,0 +1,1 @@
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/300px-Spotify_App_Logo.svg.png" style= "width:200px" "height:200px" id="hp" align = "right">
